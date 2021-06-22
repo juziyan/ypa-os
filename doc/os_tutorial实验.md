@@ -22,7 +22,7 @@ dw 0xaa55
 ps:
 生成的bin文件可以通过hexdump查看
 - 安装hexdump：`sudo apt-get install libdata-hexdumper-perl`
-- 查看bin文件内容：`hd ./boo.bin'结果如下
+- 查看bin文件内容：`hd ./boo.bin`结果如下
 ```
 yan@ubuntu:~/ypa-os$ hd ./boo.bin
 00000000  eb fe 00 00 00 00 00 00  00 00 00 00 00 00 00 00  |................|
@@ -62,4 +62,15 @@ dw 0xaa55
 1. BIOS interrupt call:https://en.wikipedia.org/wiki/BIOS_interrupt_call
 ![image](https://user-images.githubusercontent.com/76890712/122793599-f9811300-d2ed-11eb-97e3-7ef0581ed22d.png)
 
+## 03 关于绝对偏移地址和相对偏移地址
+
+![image](https://user-images.githubusercontent.com/76890712/122943386-8e951200-d3a9-11eb-883c-135041924e98.png)
+
+## 04 关于stack的概念
+- bp，sp
+- 栈顶移动方向
+- pop,push
+
+## 06 关于段偏移地址
+- 寻址方式
 
