@@ -68,8 +68,9 @@ bp栈底，sp栈顶
 ## chapter 6
 **Goal: learn how to address memory with 16-bit real mode segmentation**
 
-| CS | Code Segment |
+|  |  |
 |----|----------|
+| CS | Code Segment |
 | DS | Data Segment |
 | SS | Stack Segment |
 | ES | Extra Segment |
