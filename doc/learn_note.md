@@ -63,8 +63,19 @@ bp栈底，sp栈顶
 ## chapter 5
 **Goal: Learn how to code basic stuff (loops, functions) with the assembler**
 
-汇编语法
+汇编语法，封装了一些函数
 
 ## chapter 6
 **Goal: learn how to address memory with 16-bit real mode segmentation**
+
+| CS | Code Segment |
+|----|----------|
+| DS | Data Segment |
+| SS | Stack Segment |
+| ES | Extra Segment |
+| FS | General Purpose Segments |
+| GS |  |
+
+## chapter 7
+**Goal: Let the bootsector load data from disk in order to boot the kernel**
 
