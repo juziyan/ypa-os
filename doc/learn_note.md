@@ -68,6 +68,9 @@ bp栈底，sp栈顶
 ## chapter 6
 **Goal: learn how to address memory with 16-bit real mode segmentation**
 
+主存可以理解为被 段寄存器索引 分成了多个段
+
+段寄存器：
 |  |  |
 |----|----------|
 | CS | Code Segment |
