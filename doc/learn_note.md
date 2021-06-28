@@ -83,3 +83,20 @@ bp栈底，sp栈顶
 ## chapter 7
 **Goal: Let the bootsector load data from disk in order to boot the kernel**
 
+os的size会大于512个byte，所以需要从磁盘中读数据
+中断0x13作用：Read Disk Sectors
+
+## chapter 8
+**Goal: Print on the screen when on 32-bit protected mode**
+
+32位下print字符串
+
+不调用中断0x10，直接操纵VGA video memory
+
+## chapter 9
+**Goal: program the GDT**
+
+## chapter 10
+**Goal: Enter 32-bit protected mode and test our code from previous lessons**
+
+16位切到32位
