@@ -9,4 +9,4 @@
 - [Rust语言开源杂志（2021）](https://rustmagazine.github.io/rust_magazine_2021/index.html)
 - [awesome-rust](https://github.com/rust-unofficial/awesome-rust#operating-systems)
 - [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust)
-
+- [Rust 入门](https://docs.microsoft.com/zh-cn/learn/modules/rust-get-started/)
