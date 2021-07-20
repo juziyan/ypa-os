@@ -10,3 +10,4 @@
 - [awesome-rust](https://github.com/rust-unofficial/awesome-rust#operating-systems)
 - [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust)
 - [Rust 入门](https://docs.microsoft.com/zh-cn/learn/modules/rust-get-started/)
+- [phil-opp](https://os.phil-opp.com/)
