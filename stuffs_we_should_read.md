@@ -3,6 +3,7 @@
 - [学习笔记 | 用 树莓派4 写嵌入式操作系统](https://zhanghandong.github.io/raspberrypi-os-tutorials-notes/)
 - [redox](https://github.com/redox-os/redox)
 - [The little book about OS development](https://littleosbook.github.io/)
+- [phil-opp](https://os.phil-opp.com/)
 
 ## Rust basics
 - [The Rust Programming Language](https://doc.rust-lang.org/book/)
@@ -10,4 +11,4 @@
 - [awesome-rust](https://github.com/rust-unofficial/awesome-rust#operating-systems)
 - [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust)
 - [Rust 入门](https://docs.microsoft.com/zh-cn/learn/modules/rust-get-started/)
-- [phil-opp](https://os.phil-opp.com/)
+- [rust exercise](https://github.com/rust-lang/rustlings)
